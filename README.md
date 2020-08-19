@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-![github stats](https://github-readme-stats-kappa-swart.vercel.app/api?username=wicakhendrik&show_icons=true&theme=tokyonight)
-![language_stats](https://github-readme-stats-kappa-swart.vercel.app/api/top-langs/?username=wicakhendrik&theme=tokyonight)
+![github stats](https://github-readme-stats-kappa-swart.vercel.app/api?username=wicakhendrik&show_icons=true)
+![language_stats](https://github-readme-stats-kappa-swart.vercel.app/api/top-langs/?username=wicakhendrik&hide_langs_below=1)
 <!--
 **wicakhendrik/wicakhendrik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
