@@ -1,4 +1,4 @@
-### Hi there, I'm Muhamad Hendrik Wicaksono 👋
+### HELLO there, I'm Muhamad Hendrik Wicaksono 👋
 
 ![Hendrik's github stats](https://github-readme-stats.vercel.app/api?username=wicakhendrik&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wicakhendrik&layout=compact)
