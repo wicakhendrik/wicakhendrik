@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-[![Hendrik's github stats](https://github-readme-stats.vercel.app/api?username=wicakhendrik)](https://github.com/wicakhendrik/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wicakhendrik&layout=compact)](https://github.com/wicakhendrik/github-readme-stats)
+[![Hendrik's github stats](https://github-readme-stats.vercel.app/api?username=wicakhendrik)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wicakhendrik&layout=compact)]
 
 <!--
 **wicakhendrik/wicakhendrik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
